@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @creynolds6
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello! 👋
 
-<!---
-creynolds6/creynolds6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Background
+My name is Cayden Reynolds, I first began my interest in tech when I was 7 years old. As a kid I used to take apart toys I had to view the inner workings. I thought if I could remove them and rewire them to eachother I could make my own machines. As I got older I shifted from an interest in machines to being more focused on video games. As a kid I grew up playing many games on my brothers Xbox360, including, N+, Minecraft, Hydro Thunder, Left 4 dead 2, and of course COD. I started learning scratch in school and began to create several projects, many that were just awful, but I was in 6th grade so I was fairly proud of myself. Moving into 7th grade I began to look into Roblox Studio, roblox being a game I had been playing since 2012 (just about). I used many free models and made simple places for my friends and at some point a girl I liked. During the 8th grade I began to practice embedding iframes into google sites using HTML and a tiny bit of JS, which eventually led to me creating a simple "Banana Clicker" browser game in 9th grade. The code itself was all on one single HTML document, with little to no CSS. Around that time I also began programming in Luau (roblox) and made some very very simple games. Not long after I made a new Roblox Account (xnzx_x) and developed a few things, first I made a caveman game where you pretty much could fight and spend money (very boring), and second I made a group called Roblox Dungeons. I began to create my passion project, a dungeon crawler game in roblox. The prototype was awful and the beta had some of the worst building and UI I've ever seen/made. The game racked up a small following and I was able to find a small team to help me, including long time partner Eaglesrok1 (Eagle). Together, we created a new project, Project Pinguin. We renamed the group to Pinguin Studioz and began creating a FPS, after running into several development issues internally, we decided to lower our member count and left about 4 people. Me, Eagle, Dill, and Marvin. Together, we had Eagle and Dill as modelers/builders/UI and me and Marvin as scripters.
+
+We never finished a project and slowly the group died. I was in the 10th grade now, and me, Eagle, and Dill decided to create another passion project. An RPG called "Exile" After a few months of development, I realized I was not at a level to script a game this big. I was still learning so much about the core concepts of programming as a whole. We went scouting for help and found Erikost3. A very talented programmer who was actually developing his own Neural Network System. He taught me the basics of OOP, and we worked on Exile for a bit. At some point, we all abandoned Exile and moved to a new concept, an untitled project, meant to be a banana farming game. Erik had plans to use OOP and overly complex math to create just some visuals for the ocean, and with me being at such a low level by comparison, we ran into many creative differences. Eventually, due to some arguments amongst us three, Erikost3 left the development team and me, Eagle, and Dill continued with some other concepts we had.
+
+Due to school and homelives, we ended up stopping all development and disbanded Pinguin Studioz. We split the robux and all went our seperate ways, leaving the group as a sort of Archive.
+
+Now I was in 11th grade, which was actually just last year. I was focused on my irl situation, I had a lot of responsibilty now. I had learned a lot more about web development, landed a job at a small IT company, and I was on the soccer team for the school. Near the end of the school year, me and Eagle began talking about projects we had planned at some point, returning to a very short lasting project known as Oil Simulator. We actually fully finished that game and we put it under a new group known as "Lunar Works" where it now just sits empty. The game is fully functional, a little clunky, but otherwise pretty simple. We never advertised or had players. Later on, we began to recreate a project I had made at some point called "Slasher", which was a simple round based infection game centered around axe murder. We added skins, auras, a daily udating shop, animations, sound effects, three maps, some decent UI, and a few to many easter eggs. The game itself wasn't entirely done, but we had been testing it a good bit with very few issues, most of the time it was just client based issues that were a pain to resolve but eventually they were "fixed". We spent maybe a week and a half developing from literally nothing and we had finished an entire game almost. We released the beta and put in about $150 - $200 to advertise. We got 5k players. The game broke. Nobody stayed for longer than 2 minutes (literally) and we failed pretty bad. The code itself was jumbled and a mess, I actually started rewriting it recenlty and have had no bugs whatsoever. After this fail, we once again began creating Exile. We started all over again, created decent NPC systems, had class based systems, clean client to server communication, very little lag, and a very expandable system. As school got closer to starting, we both ended up dropping development. We both were too busy. (Also I'm a senior now)
+
+That game sits unpublished and untouched in the group game list.
+
+And now I have been learning more of the IT industry, web development, computer science in general, Python, and C++ (very little)
+
+## My Hobbies
+Programming
+Soccer
+Playing games with friends
+Spending time with my girlfriend
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=creynolds6)
+
+
+# Goodbye! 👋
